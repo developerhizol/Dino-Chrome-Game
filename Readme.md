@@ -26,11 +26,24 @@
 ```
 Dino-Chrome-Game/
 ├── public/
-│   ├── index.html
-│   ├── dino.js
-│   ├── dino.min.js
+│   ├── images/
+│   │   ├── default_100_percent/
+│   │   │   ├── 100-disabled.png
+│   │   │   ├── 100-error-offline.png
+│   │   │   └── 100-offline-sprite.png
+│   │   └── default_200_percent/
+│   │       ├── 200-disabled.png
+│   │       ├── 200-error-offline.png
+│   │       └── 200-offline-sprite.png
+│   ├── sounds/
+│   │   ├── button-press.mp3
+│   │   ├── hit.mp3
+│   │   └── score-reached.mp3
 │   ├── dino.css
-│   └── dino.min.css
+│   ├── dino.js
+│   ├── dino.min.css
+│   ├── dino.min.js
+│   └── index.html
 ├── app.js
 ├── package.json
 ├── .env
