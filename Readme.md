@@ -23,6 +23,7 @@
 
 ## 🧱 Структура репозитория
 
+```
 Dino-Chrome-Game/
 ├── public/
 │   ├── index.html
@@ -34,6 +35,7 @@ Dino-Chrome-Game/
 ├── package.json
 ├── .env
 └── README.md
+```
 
 ---
 
