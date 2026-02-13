@@ -90,7 +90,7 @@ npm start
 ## 📚 Ссылки
 
 - [Telegraf](https://telegraf.js.org/)
-- BotHost](https://bothost.ru/)
+- [BotHost](https://bothost.ru/)
 - [Telegram Mini Apps](https://core.telegram.org/bots/webapps)
 
 ---
