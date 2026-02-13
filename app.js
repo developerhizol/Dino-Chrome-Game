@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 9256;
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static('public_html'));
+app.use(express.static('public'));
 
 const WEB_APP_URL = 'https://dino.bothost.ru';
 const WELCOME_IMAGE_URL = 'https://radika1.link/2026/02/11/if9e2a3d45127c3e6.jpeg';
