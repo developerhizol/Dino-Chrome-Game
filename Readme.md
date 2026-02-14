@@ -1,6 +1,6 @@
 # 🦖 Dino Chrome · Telegram Mini App
 
-Оригинальный Chrome Dino (T-Rex Runner) внутри Telegram.
+Оригинальный Chrome Dino (T-Rex Runner) внутри Telegram Mini-App.
 
 [Демо бот](https://t.me/DinoChromeByBotHostBot)
 [Бесплатный Хостинг](https://bothost.ru)
